@@ -26,5 +26,4 @@ with:
   body: Body
   assignees: |
     ${{ github.event.pull_request.user.login }}
-    Maksym-Ulshyn
 ```
